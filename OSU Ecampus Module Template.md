@@ -8,7 +8,7 @@ The 'italicized' text represents suggested language, feel free to customize it. 
 
 * **Course:** ST 599
 * **Term:** Fall 22
-* **Instructor:** 
+* **Instructor:**
 
 ## Module _n_
 
@@ -54,7 +54,7 @@ Video content outside of recordings developed with the Ecampus media team.
 
 #### Optional Materials
 
-Titles and links. 
+Titles and links.
 
 ### Self-Check Exercises
 
